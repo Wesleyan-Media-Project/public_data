@@ -8,4 +8,4 @@ Available releases:
 
 ---
 
-For data from prior to 2020, as well as data that can't be made publicly available, see: https://mediaproject.wesleyan.edu/dataaccess/
+For data from prior to 2020, as well as data that can't be made publicly available (such as data provided to us by Kantar Media/CMAG), see: https://mediaproject.wesleyan.edu/dataaccess/
