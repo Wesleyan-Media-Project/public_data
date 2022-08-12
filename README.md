@@ -4,7 +4,7 @@ Data made publicly available by the Wesleyan Media Project. See [Releases](https
 
 ---
 Available releases:
-- TBD
+- [2020 Facebook Aggregate Weekly Spend of Page IDs Caught through Keyword Search of Federal General Election Advertisers (1/26/20 - 11/7/20)](https://github.com/Wesleyan-Media-Project/public_data/releases/tag/fb2020_weekly_agg_v1)
 
 ---
 
