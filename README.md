@@ -1,1 +1,1 @@
-# public_data
+# Wesleyan Media Project - Public Data
