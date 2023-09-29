@@ -9,3 +9,8 @@ Available releases:
 ---
 
 For data from prior to 2020, as well as data that can't be made publicly available (such as data provided to us by Kantar Media/CMAG), see: https://mediaproject.wesleyan.edu/dataaccess/
+
+
+This material is based upon work supported by the National Science Foundation under Grant Number 2235006.
+
+Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
