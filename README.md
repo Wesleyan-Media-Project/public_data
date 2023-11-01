@@ -2,7 +2,7 @@
 
 Welcome! This repo is part of the Cross-platform Election Advertising Transparency initiatIVE (CREATIVE) project. CREATIVE is a joint infrastructure project of WMP and privacy-tech-lab at Wesleyan University. CREATIVE provides cross-platform integration and standardization of political ads collected from Google and Facebook.
 
-In this repo you will find data output and accessability. 
+In this repo you will find data output and accessibility. 
 
 [A picture of the repo pipeline with this repo highlighted] https://mediaproject.wesleyan.edu/wp-content/uploads/2023/08/wmp_pipeline_051123_v2_circle.png 
 
@@ -35,9 +35,9 @@ Each of our repos belongs to one or more of the the following categories:
 - Data Storage & Processing
 - Preliminary Data Classification
 - Final Data Classification
-- Data Output and Acessability
+- Data Output and Accessibility
 
-This repo is part of the Data Output and Acessability section. The data within this repo can be used in any analysis where aggregate weekly spending compiled from the Facebook Aggregate Report from the period 1/26/2020 to 11/7/2020 is wanted. 
+This repo is part of the Data Output and Accessibility section. The data within this repo can be used in any analysis where aggregate weekly spending compiled from the Facebook Aggregate Report from the period 1/26/2020 to 11/7/2020 is wanted. 
 
 ## Data
 
